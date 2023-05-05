@@ -6,6 +6,8 @@ References:
 https://youtu.be/iKo9pDKKHnc
 https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 https://stackoverflow.com/questions/1497481/javascript-password-generator
+https://chat.openai.com/?model=text-davinci-002-render
 
 Live at:
+
 
