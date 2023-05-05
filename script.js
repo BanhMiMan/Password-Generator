@@ -33,6 +33,7 @@ function writePassword() {
 
   var passwordChars = "";
 
+  // if statements for meeting criteria
   if (includeLowercase) {
     passwordChars += lowercaseChars;
   }
