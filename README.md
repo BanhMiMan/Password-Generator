@@ -9,5 +9,5 @@ https://stackoverflow.com/questions/1497481/javascript-password-generator
 https://chat.openai.com/?model=text-davinci-002-render
 
 Live at:
-
-
+https://github.com/BanhMiMan/Password-Generator
+https://banhmiman.github.io/Password-Generator/
